@@ -215,3 +215,15 @@ img.img-fluid.rounded-5{
     height:200px;
     width:300px;
 }
+.nav-img{
+    font-weight:400px;
+    font-size:300px;
+    height:280px;
+}
+img.mb-3{
+    border-radius:90px;
+}
+a.btn{
+    margin-left:100px;
+    text-align:center;
+}
