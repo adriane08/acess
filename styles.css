@@ -80,12 +80,12 @@ section {
 .display-4 {
     text-shadow: -5px 5px  #000;
     font-family: 'verdana';
-    background-color:#cc3232;
+    background-color:#000000;
     box-shadow: 10px 8px 6px #000000;
     padding:10px;
 }
 
-#tropicalia {
+#trapalhoes {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -96,7 +96,7 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tropicalia .container {
+#trapalhoes .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -199,7 +199,7 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #tropicalia {
+.alto-contraste #trapalhoes {
     background: none;
 }
 
