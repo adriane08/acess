@@ -73,11 +73,18 @@ section {
 
 }
 
-.display-4 {
+/*.display-4 {
     text-shadow: -5px 5px var(--laranja-claro);
 }
 
-
+display-4 {
+    text-shadow: -5px 5px  #000;
+    font-family: 'verdana';
+    background-color:#cc3232;
+    box-shadow: 10px 8px 6px #000000;
+    padding:10px;
+}
+*/
 #tropicalia {
     position: relative;
     padding-top: 5rem;
