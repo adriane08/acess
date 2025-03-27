@@ -2,10 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-   /* --laranja-claro: #FF862A;
-    --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;*/
+
     --laranja-claro: #239da9;
     --alto-contraste-fundo: #000000f5;
     --alto-contraste-texto: #ffffff;
@@ -73,10 +70,7 @@ section {
 
 }
 
-/*.display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
-}
-*/
+
 .display-4 {
     text-shadow: -5px 5px  #000;
     font-family: 'verdana';
